@@ -11,3 +11,4 @@ Answered questions such as
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
+![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpanda-cartoon&psig=AOvVaw1SZymzGTYEaGsLQ_GhniRX&ust=1669759811824000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD-gpny0fsCFQAAAAAdAAAAABAD))
